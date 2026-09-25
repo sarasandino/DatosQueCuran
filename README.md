@@ -30,6 +30,7 @@ También es adaptable a asignaturas de Bachillerato de Ciencias con orientación
 datos-que-curan/
 ├── README.md
 ├── requisitos.txt
+├── guia_version_excel.md
 ├── taller1_vacunacion/
 │   ├── guia_alumnado.md
 │   ├── guia_profesorado.md
