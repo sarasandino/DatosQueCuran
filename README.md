@@ -2,7 +2,6 @@
 ### Taller de análisis de datos sanitarios para FP de Salud
 
 **Autora:** Sara Sandino González
-**Licencia:** Creative Commons Attribution 4.0 International (CC BY 4.0)
 **Concurso Datos Abiertos de la Comunidad de Castilla y León 2026** · Categorías Ideas y Recurso Didáctico
 
 ---
@@ -30,7 +29,6 @@ También es adaptable a asignaturas de Bachillerato de Ciencias con orientación
 ```
 datos-que-curan/
 ├── README.md
-├── LICENSE.md
 ├── requisitos.txt
 ├── taller1_vacunacion/
 │   ├── guia_alumnado.md
@@ -73,11 +71,3 @@ Todos los datasets provienen del [Portal de Datos Abiertos de la Junta de Castil
 ## Metodología
 
 El recurso sigue un enfoque de **aprendizaje basado en datos reales** (data-driven learning) con progresión pedagógica en tres fases por taller: comprensión del dato clínico/sanitario, tratamiento técnico del dato (limpieza, cálculo, visualización) y transferencia profesional (interpretación aplicada al contexto laboral del ciclo). Cada notebook incluye celdas de comprobación ("checkpoints") para que el alumnado valide su progreso antes de avanzar.
-
-## Licencia
-
-Este recurso se publica bajo licencia **CC BY 4.0**. Puede copiarse, redistribuirse, adaptarse y usarse con cualquier fin, incluso comercial, mencionando la autoría original y enlazando a este repositorio. Los datos de origen conservan sus licencias propias del Portal de Datos Abiertos de la Junta de Castilla y León.
-
-## Autoría
-
-Proyecto presentado al Concurso de Datos Abiertos de la Comunidad de Castilla y León 2026, categorías Ideas y Recurso Didáctico, por Sara Sandino González (saragsandino@gmail.com).
