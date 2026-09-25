@@ -33,21 +33,21 @@ datos-que-curan/
 ├── taller1_vacunacion/
 │   ├── guia_alumnado.md
 │   ├── guia_profesorado.md
-│   ├── notebook_taller1.py      (celdas listas para Jupyter)
-│   └── datos/                   (el alumnado descarga aquí el CSV)
+│   ├── notebook_taller1.ipynb
+│   └── datos/                   
 ├── taller2_listas_espera/
 │   ├── guia_alumnado.md
 │   ├── guia_profesorado.md
-│   ├── notebook_taller2.py
+│   ├── notebook_taller2.ipynb
 │   └── datos/
 ├── taller3_farmacia/
 │   ├── guia_alumnado.md
 │   ├── guia_profesorado.md
-│   ├── notebook_taller3.py
+│   ├── notebook_taller3.ipynb
 │   └── datos/
 ├── taller4_proyecto_final/
 │   ├── guia_alumnado.md
-│   └── guia_profesorado.md
+│   └── guia_profesorado.ipynb
 └── rubricas/
     └── rubricas_evaluacion.md
 ```
